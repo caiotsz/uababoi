@@ -118,4 +118,10 @@
     'O que é um número par?',
     'Um número que pode ser dividido por 2 sem deixar resto.'
     )
+
+    criaCartao(
+        'Matemática',
+        'Qual a raiz quadrada de 25?',
+        '5'
+    )
     
