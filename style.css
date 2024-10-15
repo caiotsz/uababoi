@@ -63,7 +63,7 @@ font-weight: 500;
 }
 
 .resposta-cartao{
-    color: var(--destaque);
+    color: var(--branco);
     font-weight: 700;
 }
 .cartao:hover .conteudo-cartao{
