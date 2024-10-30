@@ -67,7 +67,7 @@ font-weight: 500;
     font-weight: 700;
 }
 .cartao:hover .conteudo-cartao{
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
 }
 .pergunta-cartao, .resposta-cartao{
     backface-visibility: hidden;
