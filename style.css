@@ -18,6 +18,17 @@ width: 100%;
 text-align: center ;
 }
 
+header{
+    background-color: var(--preto);
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header a{
+    color: var(--branco);
+}
+
 #container{
 display: flex;
 flex-wrap: wrap;
