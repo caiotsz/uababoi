@@ -25,4 +25,4 @@ function criaCartao(categoria,pergunta,resposta){
     else{
         resposta.style.display = 'none';
     }
-    
+    }
