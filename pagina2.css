@@ -40,7 +40,7 @@ text-align: center ;
     padding: 40px;
     background-color:var(cartao-frente);
     color: var(--branco);
-    box-shadow: 3px 8px 25px var(--preto);
+    box-shadow: 8px 8px 25px var(--preto);
 }
 
 .resposta-cartao{
